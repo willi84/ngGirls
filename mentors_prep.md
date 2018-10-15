@@ -43,7 +43,7 @@ based on experience of Robert
 * sometimes an restart of the CLI helps if nothing works
 * on github you find the solution of the tutorial
 * if its not possible to install the CLI on the laptop, just use stackblitz.com
-  * don't waste to much time for installations, maybe just ask us organizers
+  * don't waste too much time for installations, maybe just ask us organizers
 
 
 
