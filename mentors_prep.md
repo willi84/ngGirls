@@ -15,7 +15,7 @@ based on experience of Robert
 # Basics
 * you learn together
   * you will get unexpected questions, have the challenge to describe stuff in a easy way, learn about yourself
-  * show your attendee that you learn
+  * show your attendee that you learn too
 * you don't always have to be there
   * at some point the attendees would also help each other
 * show them the basic skills of a modern developer
